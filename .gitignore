@@ -1,0 +1,11 @@
+## Ignore Everything
+*
+!.gitignore
+
+# Json Files
+!package*.json
+
+# Allow .js files
+!*.js
+!commands/
+!events/
